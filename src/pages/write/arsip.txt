@@ -1,0 +1,70 @@
+     
+           {/* <div>
+           <input onChange={props.handleChange} 
+                    type="radio"
+                    name="CategoryId"
+                    value="1"
+                    id="Bisnis"
+                    // onChange={props.handleChange}
+                  />
+                  <label htmlFor="Bisnis">Bisnis</label>
+                </div> */}
+                {/* <div className="cat">
+                  <input onChange={props.handleChange} 
+                    type="radio"
+                    name="CategoryId"
+                    value="2"
+                    id="Ekonomi"
+                    // onChange={props.handleChange}
+                  />
+                  <label htmlFor="Ekonomi">Ekonomi</label>
+                </div> */}
+                {/* <div className="cat">
+                  <input onChange={props.handleChange} 
+                    type="radio"
+                    name="CategoryId"
+                    value="3"
+                    id="Teknologi"
+                    // onChange={props.handleChange}
+                  />
+                  <label htmlFor="Teknologi">Teknologi</label>
+                </div> */}
+                {/* <div className="cat">
+                  <input onChange={props.handleChange} 
+                    type="radio"
+                    name="CategoryId"
+                    value="4"
+                    id="Olahraga"
+                    // onChange={props.handleChange}
+                  />
+                  <label htmlFor="Olahraga">Olahraga</label>
+                </div> */}
+                {/* <div className="cat">
+                  <input onChange={props.handleChange} 
+                    type="radio"
+                    name="CategoryId"
+                    value="5"
+                    id="Kuliner"
+                    // onChange={props.handleChange}
+                  />
+                  <label htmlFor="Kuliner">Kuliner</label>
+                </div> */}
+                {/* <div className="cat">
+                  <input onChange={props.handleChange} 
+                    type="radio"
+                    name="CategoryId"
+                    value="6"
+                    id="Internasional"
+                    // onChange={props.handleChange}
+                  />
+                  <label htmlFor="Internasional">Internasional</label>
+                </div> */}
+                {/* <div className="cat">
+                  <input onChange={props.handleChange} 
+                    type="radio"
+                    name="CategoryId"
+                    value="7"
+                    id="Fiksi"
+                    // onChange={props.handleChange}
+                  />
+           </div> */}

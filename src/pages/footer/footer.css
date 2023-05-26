@@ -1,0 +1,37 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    padding: 4rem 4rem;
+    background-color: rgb(228, 226, 226);
+    padding: 20px;
+}
+
+.socialmedia {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    list-style: none;
+    cursor: pointer;
+}
+
+.instagram{
+    width: 40px;
+    height: 30px;
+}
+
+.facebook{
+    width: 30px;
+    height: 30px;
+}
+
+.twitter {
+    width: 30px;
+    height: 30px;
+}
+
+.email {
+    width: 30px;
+    height: 30px;
+}
